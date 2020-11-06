@@ -1,1 +1,0 @@
-# GOAT-Meet-J-Cole
