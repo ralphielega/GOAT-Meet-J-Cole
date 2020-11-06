@@ -1,0 +1,54 @@
+img {
+    height: 200px;   
+}
+p{
+    font-family:'Ranchers';
+}
+h1{
+    font-family:Dosis;
+}
+h2{
+    font-family:Dosis;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.dreamville{
+    background-color:red;
+    margin: 5px;
+    padding: 10px;
+}
+.quotable{
+    background-color:blue;
+    margin: 5px;
+    padding: 10px;
+}
+.pictures{
+    background-color:green;
+    margin: 5px;
+    padding: 10px;
+}
+.discography{
+    background-color:yellow;
+    margin: 5px;
+    padding: 10px;
+}
+.pics{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    border: solid blue;
+    padding: 8px;
+}
+.friends{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    border: solid red;
+    padding: 8px;
+}
+.twitter{
+    display:flex;
+    justify-content: center;
+}
